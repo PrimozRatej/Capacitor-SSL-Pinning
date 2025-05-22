@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-ssl-pinning",
+  "name": "@primozratej/capacitor-ssl-pinning",
   "version": "0.0.14",
   "description": "Check/pin SSL certificates",
   "main": "dist/plugin.cjs.js",
